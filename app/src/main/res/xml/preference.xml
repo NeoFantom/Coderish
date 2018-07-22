@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Category 1">
+        <ListPreference
+            android:defaultValue="10"
+            android:dialogTitle="ASCII Code Format DIALOG"
+            android:entries="@array/ascii_format"
+            android:entryValues="@array/ascii_format"
+            android:key="ascii_format"
+            android:summary="Choose a number system which ASCII code with be displayed in"
+            android:title="ASCII Code Format TITLE" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

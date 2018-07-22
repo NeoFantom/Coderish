@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coderish</string>
+    <string name="title_activity_alphabetical_order">Alphabetical Order</string>
+    <string name="title_activity_unicode">Unicode</string>
+    <string name="title_activity_hexadecimal">Hexadecimal Numbers</string>
+
+    <string name="clear">Clear</string>
+    <string name="menu_item_problem_types">Problem types</string>
+    <string name="alphabetical_order_hint">Input only Latin letters</string>
+    <string name="unicode_hint">Put your string here</string>
+</resources>
