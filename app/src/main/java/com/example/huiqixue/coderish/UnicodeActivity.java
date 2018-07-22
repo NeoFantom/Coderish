@@ -20,8 +20,6 @@ import java.util.List;
 
 public class UnicodeActivity extends AppCompatActivity {
 
-    private static final String TAG = "UnicodeActivity";
-
     private EditText editText;
 
     private StringAdapter unicodeAdapter;
